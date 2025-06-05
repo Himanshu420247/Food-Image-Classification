@@ -116,7 +116,6 @@ You will also need a machine with at least one GPU (NVIDIA CUDA-compatible) for 
    ```bash
    git clone https://github.com/Himanshu420247/Food-Image-Classification.git
    cd Food-Image-Classification
-````
 
 2. **(Recommended) Create & Activate a Virtual Environment**
 
